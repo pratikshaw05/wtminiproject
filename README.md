@@ -1,0 +1,2 @@
+# wtminiproject
+dailyexpensestracker
